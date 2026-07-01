@@ -178,8 +178,8 @@ img {
 .hero h1 {
   margin: 0;
   font-family: "Courier Prime", "Courier New", monospace;
-  font-size: clamp(2.7rem, 6.4vw, 4.9rem);
-  line-height: 1.05;
+  font-size: clamp(2.2rem, 5vw, 3.8rem);
+  line-height: 1.08;
   letter-spacing: -.035em;
   font-weight: 700;
 }
