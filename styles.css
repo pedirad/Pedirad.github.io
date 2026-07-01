@@ -571,3 +571,51 @@ main {
     scroll-behavior: auto !important;
   }
 }
+
+/* linearts */
+
+.hero-line-art {
+  color: rgba(22, 25, 29, .34);
+  max-width: 440px;
+  margin-bottom: 1.2rem;
+}
+
+.hero-line-art svg,
+.section-art svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.section-title {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.section-title span {
+  display: block;
+}
+
+.section-art {
+  color: rgba(42, 127, 98, .45);
+  max-width: 150px;
+  opacity: .9;
+}
+
+.section-art.large {
+  max-width: 210px;
+}
+
+.section-art path,
+.section-art circle,
+.section-art line,
+.hero-line-art path,
+.hero-line-art circle,
+.hero-line-art line {
+  vector-effect: non-scaling-stroke;
+}
+
+.section-art:hover {
+  color: rgba(23, 53, 72, .55);
+}
