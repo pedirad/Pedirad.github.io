@@ -639,3 +639,35 @@ main {
     opacity: 0.38;
   }
 }
+
+.quote {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 4rem;
+  color: var(--accent-strong);
+  font-size: .95rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.quote::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: .85rem;
+  width: 2.8rem;
+  height: 1px;
+  background: var(--accent);
+}
+
+.quote p {
+  margin: 0;
+}
+
+.quote cite {
+  display: block;
+  margin-top: .45rem;
+  color: var(--muted);
+  font-style: normal;
+  letter-spacing: .08em;
+}
