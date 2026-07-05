@@ -14,32 +14,12 @@ I am an undergraduate student in Pure Chemistry and Economics at Sharif Universi
 
 The website is a static GitHub Pages site built with plain HTML, CSS, and JavaScript.
 
-```text
 index.html          Main website content
 styles.css          Layout, typography, colors, and animations
 main.js             Scroll-reveal animations
 pedram-hero.webp    Profile image
 favicon.png         Browser tab icon
 README.md           Repository documentation
-
-About me
-Research Interests
-Education
-Publications
-Experience
-Awards
-Talks & Activities
-Languages & Skills
-Design
-
-The site uses a minimal academic style with:
-
-monospaced/typewriter-inspired typography
-off-white background and muted green accents
-simple grid-based layout
-subtle scroll animations
-scientific visual elements inspired by chemical biology and computation
-Deployment
 
 This site is deployed using GitHub Pages from the root of the main branch.
 
