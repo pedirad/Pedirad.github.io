@@ -37,8 +37,6 @@ CC BY-NC-SA 4.0
 
 You may share and adapt the material for non-commercial purposes, provided that appropriate credit is given and derivative works are distributed under the same license.
 
-Contact
-
 For academic or research-related correspondence:
 
 pedram.rad77@sharif.edu
