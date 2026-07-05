@@ -21,3 +21,44 @@ main.js             Scroll-reveal animations
 pedram-hero.webp    Profile image
 favicon.png         Browser tab icon
 README.md           Repository documentation
+
+About me
+Research Interests
+Education
+Publications
+Experience
+Awards
+Talks & Activities
+Languages & Skills
+Design
+
+The site uses a minimal academic style with:
+
+monospaced/typewriter-inspired typography
+off-white background and muted green accents
+simple grid-based layout
+subtle scroll animations
+scientific visual elements inspired by chemical biology and computation
+Deployment
+
+This site is deployed using GitHub Pages from the root of the main branch.
+
+To update the website:
+
+Edit the relevant file, usually index.html or styles.css.
+Commit the changes to the main branch.
+Wait for GitHub Pages to redeploy the site.
+Refresh the browser cache if needed.
+License
+
+Unless otherwise noted, the content and design of this website are licensed under:
+
+CC BY-NC-SA 4.0
+
+You may share and adapt the material for non-commercial purposes, provided that appropriate credit is given and derivative works are distributed under the same license.
+
+Contact
+
+For academic or research-related correspondence:
+
+pedram.rad77@sharif.edu
